@@ -12,3 +12,8 @@
   <a href="https://www.instagram.com/amoghabn/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30"  alt="instagram logo"  /></a>
 </div>
+
+### 📈 Github Stats
+
+![Amogha's Stats](https://github-readme-stats.vercel.app/api?username=amoghabn&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=radical)
+![Amogha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amoghabn&layout=compact&hide=php&hide_border=true&theme=radical)
