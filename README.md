@@ -15,9 +15,6 @@
      <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=GREEN&labelColor=&style=for-the-badge" height="30" alt="portfolio logo" /></a>
 </div>
 
-
-https://amoghabn.github.io/
-
 ### 📈 Github Stats
 
 ![Amogha's Stats](https://github-readme-stats.vercel.app/api?username=amoghabn&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=radical)
