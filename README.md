@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/amoghabn/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30"  alt="instagram logo"  /></a>
    <a href="https://amoghabn.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=My&message=Portfolio&color=GREEN" height="30" alt="portfolio logo" /></a>
+    <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=GREEN&labelColor=&style=for-the-badge" height="30" alt="portfolio logo" /></a>
 </div>
 
 
