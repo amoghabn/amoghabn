@@ -17,5 +17,5 @@
 
 ### 📈 Github Stats
 
-![Amogha's Stats](https://github-readme-stats.vercel.app/api?username=amoghabn&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=radical)
+![Amogha's Stats](https://github-readme-stats.vercel.app/api?username=amoghabn&count_private=false&hide_border=true&show_icons=true&hide_title=true&theme=radical)
 ![Amogha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amoghabn&layout=compact&hide=php&hide_border=true&theme=radical)
