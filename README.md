@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  /></a>
   <a href="https://www.instagram.com/amoghabn/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30"  alt="instagram logo"  /></a>
-   <a href="https://amoghabn.github.io/" target="_blank">
+   <a href="https://amoghabn.netlify.app/" target="_blank">
      <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=0077B5&labelColor=&style=for-the-badge" height="30" alt="portfolio logo" /></a>
 </div>
 
