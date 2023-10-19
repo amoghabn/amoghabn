@@ -21,21 +21,21 @@
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,sql,py,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=java,py,html,css,js" />
   </a>
 </p>
 
 - Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,hibernate" />
+    <img src="https://skillicons.dev/icons?i=spring,hibernate,react" />
   </a>
 </p>
 
 - Developer Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,maven,JUnit" />
+    <img src="https://skillicons.dev/icons?i=git,maven" />
   </a>
 </p>
 
@@ -56,7 +56,7 @@
 - Other Essential Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kafka, REST" />
+    <img src="https://skillicons.dev/icons?i=kafka" />
   </a>
 </p>
 <br/>
