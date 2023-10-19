@@ -18,24 +18,24 @@
 <br>
 <h3 align="left">Languages and Tools:</h3>
 
-- Backend
+- Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,py" />
+    <img src="https://skillicons.dev/icons?i=java,sql,py,html,css,js" />
   </a>
 </p>
 
-- Frontend
+- Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,css,html" />
+    <img src="https://skillicons.dev/icons?i=spring,hibernate" />
   </a>
 </p>
 
-- Database
+- Developer Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=git,maven,JUnit" />
   </a>
 </p>
 
@@ -53,10 +53,10 @@
   </a>
 </p>
 
-- Tools
+- Other Essential Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,idea,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=kafka, REST" />
   </a>
 </p>
 <br/>
