@@ -21,35 +21,42 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,spring,ruby,django,rails" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,ts,jquery,css,d3" />
+    <img src="https://skillicons.dev/icons?i=js,css,html" />
   </a>
 </p>
 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   </a>
 </p>
 
-- Cloud Servers
+- Cloud Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,vercel" />
+    <img src="https://skillicons.dev/icons?i=aws" />
+  </a>
+</p>
+
+- Container Technologies
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,figma,linux,idea,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=git,linux,idea,vscode,postman" />
   </a>
 </p>
 <br/>
