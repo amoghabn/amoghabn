@@ -25,41 +25,14 @@
   </a>
 </p>
 
-- Frameworks
+- Frameworks and technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,hibernate,react" />
+    <img src="https://skillicons.dev/icons?i=spring,hibernate,react,git,maven,aws,docker,kubernetes,kafka,jupiter,streamlit" />
   </a>
 </p>
 
-- Developer Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,maven" />
-  </a>
-</p>
 
-- Cloud Technologies
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws" />
-  </a>
-</p>
-
-- Container Technologies
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-  </a>
-</p>
-
-- Other Essential Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kafka" />
-  </a>
-</p>
-<br/>
 
 
 ### 📈 Github Stats
