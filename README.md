@@ -15,6 +15,46 @@
      <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=0077B5&labelColor=&style=for-the-badge" height="30" alt="portfolio logo" /></a>
 </div>
 
+<br>
+<h3 align="left">Languages and Tools:</h3>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,spring,ruby,django,rails" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,ts,jquery,css,d3" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,vercel" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,figma,linux,idea,vscode,postman" />
+  </a>
+</p>
+<br/>
+
+
 ### 📈 Github Stats
 
 ![Amogha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amoghabn&layout=compact&hide=php&hide_border=true&theme=radical)
