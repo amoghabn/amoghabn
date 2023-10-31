@@ -36,6 +36,6 @@
 
 ![Amogha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amoghabn&layout=compact&hide=php&hide_border=true&theme=radical)
 
-Learning AI
+- Learning AI
 <a href="https://github.com/amoghabn/artificial_intelligence" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Cancer Diagnosis | AI&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30"  alt="instagram logo"  /></a>
+    <img src="https://img.shields.io/static/v1?message= Cancer Diagnosis | AI &label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30"  alt="instagram logo"  /></a>
