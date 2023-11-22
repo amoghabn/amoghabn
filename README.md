@@ -28,7 +28,7 @@
 - Frameworks and technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,hibernate,react,git,maven,aws,docker,kubernetes,kafka,jupiter,streamlit" />
+    <img src="https://skillicons.dev/icons?i=spring,hibernate,react,git,maven,aws,docker,kubernetes,kafka,jupiter,streamlit,powerBI" />
   </a>
 </p>
 
